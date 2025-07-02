@@ -1,5 +1,8 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        TestUser.test();
+        TestTime.test();
+        TestRecursion.test();
+
     }
 }
