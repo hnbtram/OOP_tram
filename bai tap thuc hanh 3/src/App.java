@@ -1,8 +1,11 @@
+import testQuannet.TestQuanlyMayTinh;
+
 public class App {
     public static void main(String[] args) throws Exception {
-        TestUser.test();
-        TestTime.test();
-        TestRecursion.test();
+        //TestUser.test();
+        //TestTime.test();
+        //TestRecursion.test();
+        TestQuanlyMayTinh.test();
 
     }
 }
